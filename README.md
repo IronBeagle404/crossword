@@ -5,18 +5,83 @@
 </p>
 
 ---
-
-> *****CROSSWORD*** est un résolveur automatique de mots croisés.
+<div align="center" style="
+  border: 2px solid hsla(210, 59%, 54%, 1.00);
+  border-radius: 12px;
+  padding: 12px 18px;
+  width: fit-content;
+  margin: auto;
+">
+  
+<p align="center">
+<strong>CROSSWORD</strong> est un résolveur automatique de mots croisés.
 Il prend en entrée une grille de chiffres et de points.
 Ensuite, le programme analyse et valide la grille,
 il trouve tous les emplacements des mots,(horizontaux et verticaux)
 et associe à chaque emplacement les mots possibles.
 Il utilise un algorithme de backtracking pour essayer les combinaisons
 et n’accepte que si et seulement si il trouve une solution unique.  
-pour finir : il affiche la grille complétée, ou Error si la grille est impossible ou si la grille a plusieur possibilité.**
+pour finir : il affiche la grille complétée, ou Error si la grille est impossible ou si la grille a plusieur possibilité.
+</p>
+</div>
+
 ---
 
 
+
+<p align="center">
+  <a href="https://ibb.co/hxqVmmRm">
+<a href="https://ibb.co/202Mz45T"><img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59" border="0"></a>
+  </a>
+</p>
+
+<div align="center" style="
+  border: 2px solid hsla(210, 59%, 54%, 1);
+  border-radius: 12px;
+  padding: 12px 18px;
+  width: fit-content;
+  margin: auto;
+">
+
+<pre style="
+  margin: 0;
+  font-family: Consolas, monospace;
+  text-align: left;
+">
+/crossword
+  │─ solver.js
+  │─ README.md
+</pre>
+
+</div>
+
+
+---
+<p align="center">
+  <a href="https://ibb.co/hxqVmmRm">
+<a href="https://ibb.co/qLr00CSD"><img src="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png" alt="Votre-texte-de-paragraphe-60" border="0"></a>
+  </a>
+</p>
+
+<p align="center">
+<strong>Parsing strict de la grille (format ., 0, 1, 2)
+</p>
+<p align="center">
+Détection automatique des mots horizontaux et verticaux
+<p align="center">
+Vérification de cohérence entre slots et mots fournis
+<p align="center">
+Backtracking optimisé avec détection de solutions multiples
+<p align="center">
+Normalisation et validation des mots
+<p align="center">
+Affichage propre de la grille résolue
+</p>
+<p align="center">
+Gestion explicite des erreurs (input invalide, multi-solutions, etc.)
+</p>
+
+---
 <p align="center">
   <a href="https://ibb.co/hxqVmmRm">
 <a href="https://ibb.co/4gYBqpF2"><img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49" border="0"></a>
@@ -76,4 +141,3 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 - **aucune solution n’est trouvée**
 - **plusieurs solutions existent**
 - **le backtracking dépasse une limite de sécurité**
-
