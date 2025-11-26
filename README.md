@@ -1,4 +1,8 @@
-<a href="https://ibb.co/hxqVmmRm"><img src="https://i.ibb.co/FkPzDDbD/Setting-up-Git-4.png" alt="Setting-up-Git-4" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co/hxqVmmRm">
+    <img src="https://i.ibb.co/FkPzDDbD/Setting-up-Git-4.png" alt="Setting-up-Git-4">
+  </a>
+</p>
 
 ---
 
