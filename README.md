@@ -14,3 +14,5 @@ et associe à chaque emplacement les mots possibles.
 Il utilise un algorithme de backtracking pour essayer les combinaisons
 et n’accepte que si et seulement si il trouve une solution unique.  
 pour finir : il affiche la grille complétée, ou Error si la grille est impossible ou si la grille a plusieur possibilité.**
+---
+
