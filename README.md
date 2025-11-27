@@ -28,7 +28,7 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 ---
 
 <p align="center">
-  <a href="https://ibb.co/202Mz45T">
+  <a href="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png">
     <img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59">
   </a>
 </p>
@@ -56,7 +56,7 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 
 ---
 <p align="center">
-  <a href="https://ibb.co/qLr00CSD">
+  <a href="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png">
     <img src="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png" alt="Votre-texte-de-paragraphe-60">
   </a>
 </p>
@@ -82,7 +82,7 @@ Gestion explicite des erreurs (input invalide, multi-solutions, etc.)
 ---
 
 <p align="center">
-  <a href="https://ibb.co/b5q1fxqR">
+  <a href="https://i.ibb.co/60VYd2VJ/Votre-texte-de-paragraphe-62.png">
     <img src="https://i.ibb.co/60VYd2VJ/Votre-texte-de-paragraphe-62.png" alt="Votre-texte-de-paragraphe-62">
   </a>
 </p>
@@ -144,7 +144,7 @@ a..n
 
 ---
 <p align="center">
-  <a href="https://ibb.co/4gYBqpF2">
+  <a href="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png">
     <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
   </a>
 </p>
