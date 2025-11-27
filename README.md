@@ -144,10 +144,9 @@ a..n
 
 ---
 <p align="center">
-  <a href="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png">
-    <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
-  </a>
+  <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
 </p>
+
 
 <div align="center" style="
   border: 2px solid hsla(210, 59%, 54%, 0.00);
