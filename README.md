@@ -28,8 +28,8 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 ---
 
 <p align="center">
-  <a href="https://ibb.co/hxqVmmRm">
-    <img src="https://ibb.co/202Mz45T"><img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Setting-up-Git-4">
+  <a href="https://ibb.co/202Mz45T">
+    <img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59">
   </a>
 </p>
 
@@ -56,8 +56,8 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 
 ---
 <p align="center">
-  <a href="https://ibb.co/hxqVmmRm">
-<a href="https://ibb.co/qLr00CSD"><img src="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png" alt="Votre-texte-de-paragraphe-60" border="0"></a>
+  <a href="https://ibb.co/qLr00CSD">
+    <img src="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png" alt="Votre-texte-de-paragraphe-60">
   </a>
 </p>
 
@@ -82,7 +82,8 @@ Gestion explicite des erreurs (input invalide, multi-solutions, etc.)
 ---
 
 <p align="center">
-<a href="https://ibb.co/b5q1fxqR"><img src="https://i.ibb.co/60VYd2VJ/Votre-texte-de-paragraphe-62.png" alt="Votre-texte-de-paragraphe-62" border="0"></a>
+  <a href="https://ibb.co/b5q1fxqR">
+    <img src="https://i.ibb.co/60VYd2VJ/Votre-texte-de-paragraphe-62.png" alt="Votre-texte-de-paragraphe-62">
   </a>
 </p>
 
@@ -143,8 +144,8 @@ a..n
 
 ---
 <p align="center">
-  <a href="https://ibb.co/hxqVmmRm">
-  <a href="https://ibb.co/4gYBqpF2"><img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49" border="0">
+  <a href="https://ibb.co/4gYBqpF2">
+    <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
   </a>
 </p>
 
