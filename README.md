@@ -27,11 +27,9 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 
 ---
 
-
-
 <p align="center">
   <a href="https://ibb.co/hxqVmmRm">
-<a href="https://ibb.co/202Mz45T"><img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59" border="0"></a>
+    <img src="https://ibb.co/202Mz45T"><img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Setting-up-Git-4">
   </a>
 </p>
 
