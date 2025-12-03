@@ -3,6 +3,9 @@
     <img src="https://i.ibb.co/FkPzDDbD/Setting-up-Git-4.png" alt="Setting-up-Git-4">
   </a>
 </p>
+<img alt="Static Badge" src="https://img.shields.io/badge/git-%20IronBeagle404%20-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2FIronBeagle404">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/git-%20%20nosserb-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2Fnosserb">
 
 ---
 <div align="center" style="
@@ -140,13 +143,14 @@ a..n
 ***Si le puzzle est invalide, ou s'il existe 0 ou plusieurs solutions,***
 ***le programme affiche :***
 ``Error``
+</p>
 </div>
 
 ---
+
 <p align="center">
   <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
 </p>
-
 
 <div align="center" style="
   border: 2px solid hsla(210, 59%, 54%, 0.00);
@@ -209,4 +213,10 @@ a..n
 **aucune solution n’est trouvée**
 **plusieurs solutions existent**
 **le backtracking dépasse une limite de sécurité**
+
+</p>
 </div>
+
+---
+
+
