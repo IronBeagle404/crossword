@@ -8,14 +8,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%20%20nosserb-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2Fnosserb">
 
 ---
-
-<div align="center" style="
-  border: 2px solid hsla(210, 49%, 50%, 0.57);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
   
 <p align="center">
 <strong>CROSSWORD</strong> est un résolveur automatique de mots croisés.
@@ -27,7 +19,6 @@ Il utilise un algorithme de backtracking pour essayer les combinaisons
 et n’accepte que si et seulement si il trouve une solution unique.  
 pour finir : il affiche la grille complétée, ou Error si la grille est impossible ou si la grille a plusieur possibilité.
 </p>
-</div>
 
 ---
 
@@ -36,14 +27,6 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
     <img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59">
   </a>
 </p>
-
-<div align="center" style="
-  border: 2px solid hsla(210, 49%, 50%, 0.57);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
 
 <pre style="
   margin: 0;
@@ -55,7 +38,6 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
   │─ README.md
 </pre>
 
-</div>
 
 
 ---
