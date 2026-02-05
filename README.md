@@ -28,15 +28,11 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
   </a>
 </p>
 
-<pre style="
-  margin: 0;
-  font-family: Consolas, monospace;
-  text-align: left;
-">
-/crossword
+```
+  /crossword
   │─ solver.js
   │─ README.md
-</pre>
+```
 
 
 
