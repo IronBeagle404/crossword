@@ -21,22 +21,6 @@ pour finir : il affiche la grille complétée, ou Error si la grille est impossi
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png">
-    <img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59">
-  </a>
-</p>
-
-```
-  /crossword
-  │─ solver.js
-  │─ README.md
-```
-
-
-
----
 <p align="center">
   <a href="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png">
     <img src="https://i.ibb.co/8n7zzbCm/Votre-texte-de-paragraphe-60.png" alt="Votre-texte-de-paragraphe-60">
