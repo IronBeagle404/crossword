@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibb.co/hxqVmmRm">
-    <img src="https://i.ibb.co/FkPzDDbD/Setting-up-Git-4.png" alt="Setting-up-Git-4">
+    <a href="https://ibb.co/gbHM6Cgf"><img src="https://i.ibb.co/KcRjmHyf/Setting-up-Git-3.png" alt="Setting-up-Git-3" border="0" /></a>
   </a>
 </p>
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%20IronBeagle404%20-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2FIronBeagle404">
