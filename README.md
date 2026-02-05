@@ -8,6 +8,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%20%20nosserb-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2Fnosserb">
 
 ---
+
 <div align="center" style="
   border: 2px solid hsla(210, 49%, 50%, 0.57);
   border-radius: 12px;
