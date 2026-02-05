@@ -53,13 +53,7 @@ Gestion explicite des erreurs (input invalide, multi-solutions, etc.)
   </a>
 </p>
 
-<div align="center" style="
-  border: 2px solid hsla(210, 59%, 54%, 0.00);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
+<p align="center">
 
 ## Définir le puzzle
 
@@ -106,8 +100,8 @@ a..n
 ***Si le puzzle est invalide, ou s'il existe 0 ou plusieurs solutions,***
 ***le programme affiche :***
 ``Error``
+
 </p>
-</div>
 
 ---
 
@@ -115,13 +109,7 @@ a..n
   <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
 </p>
 
-<div align="center" style="
-  border: 2px solid hsla(210, 59%, 54%, 0.00);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
+<p align="center">
 
 ## 1. Analyse de la grille
 
@@ -178,7 +166,7 @@ a..n
 **le backtracking dépasse une limite de sécurité**
 
 </p>
-</div>
+
 
 ---
 
