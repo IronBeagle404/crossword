@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibb.co/hxqVmmRm">
-    <img src="https://i.ibb.co/FkPzDDbD/Setting-up-Git-4.png" alt="Setting-up-Git-4">
+    <a href="https://ibb.co/gbHM6Cgf"><img src="https://i.ibb.co/KcRjmHyf/Setting-up-Git-3.png" alt="Setting-up-Git-3" border="0" /></a>
   </a>
 </p>
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%20IronBeagle404%20-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2FIronBeagle404">
@@ -8,13 +8,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%20%20nosserb-brightgreen?logo=github&link=https%3A%2F%2Fgithub.com%2Fnosserb">
 
 ---
-<div align="center" style="
-  border: 2px solid hsla(210, 49%, 50%, 0.57);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
   
 <p align="center">
 <strong>CROSSWORD</strong> est un résolveur automatique de mots croisés.
@@ -26,36 +19,6 @@ Il utilise un algorithme de backtracking pour essayer les combinaisons
 et n’accepte que si et seulement si il trouve une solution unique.  
 pour finir : il affiche la grille complétée, ou Error si la grille est impossible ou si la grille a plusieur possibilité.
 </p>
-</div>
-
----
-
-<p align="center">
-  <a href="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png">
-    <img src="https://i.ibb.co/hx5dGzCS/Votre-texte-de-paragraphe-59.png" alt="Votre-texte-de-paragraphe-59">
-  </a>
-</p>
-
-<div align="center" style="
-  border: 2px solid hsla(210, 49%, 50%, 0.57);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
-
-<pre style="
-  margin: 0;
-  font-family: Consolas, monospace;
-  text-align: left;
-">
-/crossword
-  │─ solver.js
-  │─ README.md
-</pre>
-
-</div>
-
 
 ---
 <p align="center">
@@ -90,13 +53,7 @@ Gestion explicite des erreurs (input invalide, multi-solutions, etc.)
   </a>
 </p>
 
-<div align="center" style="
-  border: 2px solid hsla(210, 59%, 54%, 0.00);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
+<p align="center">
 
 ## Définir le puzzle
 
@@ -143,8 +100,8 @@ a..n
 ***Si le puzzle est invalide, ou s'il existe 0 ou plusieurs solutions,***
 ***le programme affiche :***
 ``Error``
+
 </p>
-</div>
 
 ---
 
@@ -152,13 +109,7 @@ a..n
   <img src="https://i.ibb.co/VpQX1TLx/Votre-texte-de-paragraphe-49.png" alt="Votre-texte-de-paragraphe-49">
 </p>
 
-<div align="center" style="
-  border: 2px solid hsla(210, 59%, 54%, 0.00);
-  border-radius: 12px;
-  padding: 12px 18px;
-  width: fit-content;
-  margin: auto;
-">
+<p align="center">
 
 ## 1. Analyse de la grille
 
@@ -215,7 +166,7 @@ a..n
 **le backtracking dépasse une limite de sécurité**
 
 </p>
-</div>
+
 
 ---
 
